@@ -8,5 +8,4 @@ A simple iOS app that splits a check based on tip and number of people paying.
 * Modifying state
 
 ## Screenshots
-<img width="473" alt="proj1" src="https://user-images.githubusercontent.com/29722295/193432992-e6074efd-a445-46ab-966d-12d772ed0337.png"> <img width="473" alt="proj1-2" src="https://user-images.githubusercontent.com/29722295/193432700-03199997-e81a-42ca-8fbd-69daa3222f9c.png">
-
+<img width="473" alt="pro3" src="https://user-images.githubusercontent.com/29722295/194187704-7424dba0-50a5-481b-88d4-fb6ebdd6ef68.png"> <img width="473" alt="proj3-2" src="https://user-images.githubusercontent.com/29722295/194187712-7d92d86d-6238-4199-89ee-7e131dde4824.png"> <img width="473" alt="proj3-3" src="https://user-images.githubusercontent.com/29722295/194187813-f8a85af6-f84f-4ab0-bc9f-f4af4e5a2041.png"> <img width="473" alt="proj3-4" src="https://user-images.githubusercontent.com/29722295/194187844-eaa2e71f-383e-48fb-a6f8-8fcda71e943b.png">
